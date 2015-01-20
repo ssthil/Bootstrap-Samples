@@ -31,3 +31,12 @@ bootstrap-samples/
         ├── fontawesome-webfont.svg
         ├── fontawesome-webfont.ttf
         └── fontawesome-webfont.woff 
+```
+#Grid
+```
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-6"></div>
+</div>
+</div>
+```

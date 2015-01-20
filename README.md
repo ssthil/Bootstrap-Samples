@@ -2,7 +2,7 @@
 Created UI samples using bootstrap framework
 
 #File structure
-bootstrap-samples/
+```bootstrap-samples/
 ├── css/
 │   ├── style.css
 │   ├── bootstrap.css
@@ -28,4 +28,4 @@ bootstrap-samples/
         ├── fontawesome-webfont.eot
         ├── fontawesome-webfont.svg
         ├── fontawesome-webfont.ttf
-        └── fontawesome-webfont.woff
+        └── fontawesome-webfont.woff```

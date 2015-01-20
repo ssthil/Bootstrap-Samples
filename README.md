@@ -32,11 +32,28 @@ bootstrap-samples/
         ├── fontawesome-webfont.ttf
         └── fontawesome-webfont.woff 
 ```
-#Grid
+#Creating page layouts using Grid System
 ```
 <div class="container-fluid">
-<div class="row">
-<div class="col-sm-6"></div>
+    <div class="row">
+        <div class="col-sm-6"></div>
+    </div>
 </div>
+```
+#Creating table structure
+```
+<div class="container-fluid">
+	<table class="table table-bordered">
+		<thead>
+			<tr>
+				<th>.....</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>.....</td>
+			</tr>
+		</tbody>
+	</table>
 </div>
 ```

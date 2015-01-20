@@ -40,7 +40,7 @@ bootstrap-samples/
     </div>
 </div>
 ```
-#Creating table structure
+#Table structure
 ```
 <div class="container-fluid">
 	<table class="table table-bordered">

@@ -2,7 +2,9 @@
 Created UI samples using bootstrap framework
 
 #File structure
-```bootstrap-samples/
+```
+bootstrap-samples/
+├── index.html
 ├── css/
 │   ├── style.css
 │   ├── bootstrap.css
@@ -12,9 +14,9 @@ Created UI samples using bootstrap framework
 │   ├── bootstrap-theme.css.map
 │   └── bootstrap-theme.min.css
 ├── img/
-│   ├── bg.jpg
+│   └── bg.jpg
 ├── js/
-│   ├── script.js
+│   └── script.js
 └── lib
     ├──js/
     │   ├── jquery-2.1.3.min.js
